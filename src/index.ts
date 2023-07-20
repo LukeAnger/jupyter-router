@@ -11,7 +11,7 @@ import { requestAPI } from './handler';
 
 export const FetchData = (data: JSON) => {
   console.log(data);
-}
+};
 
 const plugin: JupyterFrontEndPlugin<void> = {
   id: 'jpl_router:plugin',
