@@ -1,6 +1,6 @@
 # jpl_router
 
-[![Github Actions Status](https://github.com/LukeAnger/jupyter-router.git/workflows/Build/badge.svg)](https://github.com/LukeAnger/jupyter-router.git/actions/workflows/build.yml)
+
 A JupyterLab extension.
 
 This extension is composed of a Python package named `jpl_router`
