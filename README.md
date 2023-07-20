@@ -1,6 +1,5 @@
 # jpl_router
 
-
 A JupyterLab extension.
 
 This extension is composed of a Python package named `jpl_router`
